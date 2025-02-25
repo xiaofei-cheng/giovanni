@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "First commit"
+git branch -M main
+git remote add origin https://github.com/你的GitHub用户名/giovanni.git
+git push -u origin main
